@@ -1,4 +1,5 @@
 kotlin class {
-	String name = "ws"
+	String name = "ws";
+	int age = 23;
 }
 	
