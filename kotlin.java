@@ -1,8 +1,7 @@
 kotlin class {
 
-	int a2 = 2
-
-	int age = 23;
+	int a = 2;
+	int b = 3;
 
 }
 	
