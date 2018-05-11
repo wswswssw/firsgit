@@ -1,7 +1,3 @@
-kotlin class {
-String aaa；
+int a
 int b
-
-
-
-}
+int c
