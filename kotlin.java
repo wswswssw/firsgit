@@ -1,11 +1,7 @@
 kotlin class {
+String aaa；
+int b
 
-
-	int a2 = 2
-
-int dd ；
-int cc；
 
 
 }
-	
